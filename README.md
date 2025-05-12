@@ -1,5 +1,5 @@
 # job_sky
-![Alt text](assets/images/no_image.png)
+
 A new Flutter project.
 
 ## Getting Started
