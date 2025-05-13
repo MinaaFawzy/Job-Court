@@ -1,6 +1,6 @@
 # job_sky
 
-![Example Image](JobSky pics/Change Email Screen.jpg)
+![Logo](JobSky pics/Change Email Screen.jpg)
 
 ## Getting Started
 
