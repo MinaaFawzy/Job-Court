@@ -1,16 +1,14 @@
-# job_sky
+# Job Court
+Built a Flutter-based mobile app similar to Tinder, where users swipe right or left to like or dislike other profiles. Each profile features photos, a bio, and interests. Users can start chats with others who share mutual interests, enabling meaningful professional or social connections
 
 ![Example Image](JobCourt-Images/Welcome-Screen.jpg)
+![Example Image](JobCourt-Images/Setting-Screen.jpg)
+![Example Image](JobCourt-Images/Profile-Screen.jpg)
+![Example Image](JobCourt-Images/Home-Screen.jpg)
+![Example Image](JobCourt-Images/Chat-List-Screen.jpg)
+![Example Image](JobCourt-Images/Chat-Screen.jpg)
+![Example Image](JobCourt-Images/Create-Acc-Screen.jpg)
+![Example Image](JobCourt-Images/Edit-Profile-Screen.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
