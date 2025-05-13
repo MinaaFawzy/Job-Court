@@ -1,6 +1,6 @@
 # job_sky
 
-![Logo](JobCourt-Images/Welcome-Screen.jpg)
+![Example Image](JobCourt-Images/Welcome-Screen.jpg)
 
 ## Getting Started
 
