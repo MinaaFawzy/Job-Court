@@ -1,6 +1,6 @@
 # job_sky
 
-A new Flutter project.
+![Example Image](JobSky pics/Change Email Screen.jpg)
 
 ## Getting Started
 
